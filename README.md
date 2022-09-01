@@ -11,7 +11,7 @@ It helps security researchers in running Testssl and analyzing results from Test
 ./synrish.sh <Target URL>
 ```
 
-##Installation:
+## Installation:
 ```
 git clone https://github.com/rsbarsania/synrish.git
 ```
