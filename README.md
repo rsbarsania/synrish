@@ -1,7 +1,7 @@
 # synrish
 It helps security researchers in running Testssl and analyzing results from Testssl through Testssl-analyzer, finding hidden Directories, finding Parameters, and running Nikto in one go. It also saves output for your reference.
 
-## Usage
+## Usage:
 * For installing the tools, run below command:
 ```
 ./installer.sh
@@ -9,4 +9,18 @@ It helps security researchers in running Testssl and analyzing results from Test
 * To scan the target, run the below command:
 ```
 ./synrish.sh <Target URL>
+```
+
+##Installation:
+```
+git clone 
+```
+```
+cd synrish
+```
+```
+chmod +x *.sh
+```
+```
+./installer.sh
 ```
