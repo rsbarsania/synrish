@@ -13,7 +13,7 @@ It helps security researchers in running Testssl and analyzing results from Test
 
 ##Installation:
 ```
-git clone 
+git clone https://github.com/rsbarsania/synrish.git
 ```
 ```
 cd synrish
