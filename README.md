@@ -3,7 +3,10 @@ It helps security researchers in running Testssl and analyzing results from Test
 
 # Usage
 * For installing the tools, run below command:
-`./installer.sh
+```
+./installer.sh
+```
 * To scan the target, run the below command:
-`./synrish.sh <Target URL>
-
+```
+./synrish.sh <Target URL>
+```
